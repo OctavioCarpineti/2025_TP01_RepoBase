@@ -8,3 +8,4 @@ Contiene archivos simples para que puedas practicar creación de ramas, commits,
 - `src/app.js`: contiene un script básico.
 - `data/info.txt`: contiene datos de ejemplo.
 Error simulado
+Correccion del error
